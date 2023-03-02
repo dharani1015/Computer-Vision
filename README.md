@@ -1,4 +1,3 @@
-# A2
 
 
 ## Part 1: Image matching and clustering
