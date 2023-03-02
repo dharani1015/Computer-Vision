@@ -101,9 +101,3 @@ Well to start, let's think about the images with Big Ben. All four faces of the 
 The following sources were referred to for part 1:
 - https://stackoverflow.com/questions/47321133/sklearn-hierarchical-agglomerative-clustering-using-similarity-matrix
 - https://docs.opencv.org/4.x/dc/dc3/tutorial_py_matcher.html
-
-## Contribution of the authors
-
-- pchakila: Develop part 1 and utilities.py.
-- ddoppala: Research and develop part 1 and its report.
-- marcskin: Research and develop part 2 and 3.
